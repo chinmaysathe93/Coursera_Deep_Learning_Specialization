@@ -1,4 +1,4 @@
-# Coursera - Deep Learning Specialization:
+<a href="https://www.coursera.org/specializations/deep-learning"><img src="" title="Coursera - Deep Learning Specialization"></a>
 
 ### 1. Neural Networks and Deep Learning
 ### 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
