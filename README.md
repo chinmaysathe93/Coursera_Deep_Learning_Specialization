@@ -1,4 +1,4 @@
-<h1 style="align:center"> Coursera - Deep Learning Specialization</h1>
+<h1> Coursera - Deep Learning Specialization</h1>
 <a href = "https://www.coursera.org/specializations/deep-learning"> <img src="/Deep_Learning_Screen.png"></a>
 
 <h3> 1. Neural Networks and Deep Learning</h3>
