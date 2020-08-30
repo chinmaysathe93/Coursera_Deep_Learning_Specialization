@@ -1,16 +1,5 @@
 <html>
 <head>
-
-<style>
-a.heading1:link {color:#00ffff;}
-a.heading1:visited {color:#008080;}
-a.heading1:hover {font-size:125%;}
-
-a.RestText:link {color:#0000a0;}
-a.RestText:visited {color:#ff0000;}
-a.RestText:hover {font-size:150%;}
-</style>
-  
 </head>
 <body>
 
